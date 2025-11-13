@@ -54,7 +54,7 @@ This made it the ideal choice for deployment.
 ## How to Use
 
 ### 1. Through the Space Web Interface
-- Go to the Space
+- Go to the Space - https://huggingface.co/spaces/Yagna27/Aurora_Question_Answering_System
 - Type your question in the input box
 - Get the inferred answer
 
