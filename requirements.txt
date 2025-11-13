@@ -1,0 +1,14 @@
+
+fastapi
+uvicorn
+pydantic
+transformers
+torch
+sentence-transformers
+faiss-cpu
+scikit-learn
+fuzzywuzzy
+python-Levenshtein
+numpy
+pandas
+gradio
